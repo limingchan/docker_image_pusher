@@ -1,1 +1,6 @@
-docker.io/kubesphere/ks-jenkins:v3.3.0-2.319.1
+docker.io/goharbor/harbor-db:v2.5.3
+docker.io/goharbor/harbor-core:v2.5.3
+docker.io/goharbor/harbor-portal:v2.5.3
+docker.io/goharbor/harbor-jobservice:v2.5.3
+docker.io/goharbor/redis-photon:v2.5.3
+docker.io/goharbor/nginx-photon:v2.5.3
