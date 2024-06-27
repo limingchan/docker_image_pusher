@@ -1,2 +1,1 @@
-docker.io/kubesphere/devops-tools:v3.3.1
-docker.io/kubesphere/s2ioperator:v3.2.1
+docker.io/kubesphere/devops-apiserver:v3.3.1
