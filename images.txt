@@ -1,6 +1,1 @@
-docker.io/goharbor/harbor-db:v2.5.3
-docker.io/goharbor/harbor-core:v2.5.3
-docker.io/goharbor/harbor-portal:v2.5.3
-docker.io/goharbor/harbor-jobservice:v2.5.3
-docker.io/goharbor/redis-photon:v2.5.3
-docker.io/goharbor/nginx-photon:v2.5.3
+docker.io/kubesphere/ks-installer:v3.3.1
